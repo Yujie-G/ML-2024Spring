@@ -16,3 +16,15 @@
 - 课程教师：谢茂强
 - 助教: [郭予捷](https://github.com/Yujie-G)，玄宇航
 
+
+## How to start
+
+初始化：
+```bash
+git clone git@github.com:Yujie-G/ML-2024Spring.git
+```
+
+之后，每次新实验发布，你可以通过以下命令来更新本地仓库：
+```bash
+git pull
+```
