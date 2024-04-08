@@ -10,4 +10,10 @@
 
 如果不在，需要在base环境下安装mindspore（或新建一个conda环境）
 
+## anaconda solve environment failed with initial frozen solve
+
+1. 尝试使用pip安装mindspore
+2. 尝试将conda镜像源更换为清华源, 参考[清华源](https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/)；注意换源后可以不用开tizi；换源后需要`conda clean -i`清除缓存
+
+
 
