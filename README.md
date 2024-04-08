@@ -4,7 +4,7 @@
 
 本仓库将会存放本学期的实验课程资料，包括实验课程大纲、实验课程内容、实验课程代码、实验课程数据等。
 
-[仓库地址]()
+[仓库地址](https://github.com/Yujie-G/ML-2024Spring/)
 
 ## 课程信息
 
@@ -16,9 +16,3 @@
 - 课程教师：谢茂强
 - 助教: [郭予捷](https://github.com/Yujie-G)，玄宇航
 
-## 实验课程大纲
-
-### [实验0：Python基础](./Lab0-Python/)
-### [实验1：线性回归](./Lab1-LinearRegression/)
-###
-### [实验5: Lenet](./Lab5-Lenet/)
